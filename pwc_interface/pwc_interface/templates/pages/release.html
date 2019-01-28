@@ -1,0 +1,69 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+    <!--<meta charset="UTF-8">-->
+    <!--<title>Title</title>-->
+<!--</head>-->
+<!--<body>-->
+
+<!--</body>-->
+<!--</html>-->
+{% extends "pages/model_template.html" %}
+
+{% block maincontent %}
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card">
+                                <div class="card-header" data-background-color="purple">
+                                    <h4 class="title">Edit Task</h4>
+                                    <p class="category">Complete task info</p>
+                                </div>
+                                <div class="card-content">
+                                    <form>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                               <div class="form-group label-floating is-empty">
+                                                    <label class="control-label">Last Name</label>
+                                                    <input type="text" class="form-control">
+                                                <span class="material-input"></span></div>
+
+                                            </div>
+                                            <!-- <div class="col-md-6">
+                                                <div class="form-group label-floating is-empty">
+                                                    <label class="control-label">Last Name</label>
+                                                    <input type="text" class="form-control">
+                                                <span class="material-input"></span></div>
+                                            </div> -->
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="form-group label-floating is-empty">
+                                                    <label class="control-label">Email Notifications(eg. em1@g.com/em2@g.com)</label>
+                                                    <input type="text" class="form-control">
+                                                <span class="material-input"></span></div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <!-- <label>Video File</label> -->
+                                                 <!-- <input type="file" id="fileUpload"/> -->
+
+                                                 <<!-- span class="material-input"></span> -->
+
+                                                 <label class="control-label">Email Notifications(eg. em1@g.com/em2@g.com)</label>
+                                                    <input type="file" id="fileUpload"/>
+                                            </div>
+                                        </div>
+
+                                        <button type="submit" class="btn btn-primary pull-right">Submit</button>
+                                        <div class="clearfix"></div>
+
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+{% endblock %}
+
