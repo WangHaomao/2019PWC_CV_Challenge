@@ -2,71 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="462e04a9-eb86-4749-b311-0fbee2ced6a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/css/material-dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/cover.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/faces/marc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/new_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/sidebar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/sidebar-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/sidebar-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/sidebar-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/img/tim_80x80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/js/arrive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/js/bootstrap-notify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/js/chartist.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/js/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/js/material-dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/js/material.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/js/perfect-scrollbar.jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/material-dashboard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_checkboxes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_dialogs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_footers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_inputs-size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_misc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_pills.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_popups.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_radios.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_responsive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_ripples.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_sidebar-and-main-panel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_tabs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_togglebutton.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/mixins/_chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/mixins/_transparency.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/plugins/_animate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/plugins/_perfect-scrollbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/static/assets/sass/md/plugins/_plugin-nouislider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/templates/pages/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/templates/pages/model_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/templates/pages/release.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwc_interface/templates/pages/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwc_interface/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pwc_interface/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pwc_interface/templates/pages/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/pwc_interface/templates/pages/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pwc_interface/templates/pages/release.html" beforeDir="false" afterPath="$PROJECT_DIR$/pwc_interface/templates/pages/release.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pwc_interface/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pwc_interface/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,13 +37,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="100" />
-          <entry key="py" value="135" />
+          <entry key="py" value="243" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="100" />
-          <entry key="Python" value="135" />
+          <entry key="Python" value="243" />
         </counts>
       </usages-collector>
     </session>
@@ -134,12 +71,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pwc_interface/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            <state relative-caret-position="247">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <marker date="1548664125910" expanded="true" signature="80:85" ph="..." />
-                <marker date="1548664125910" expanded="true" signature="263:268" ph="..." />
+                <marker date="1548727049750" expanded="true" signature="80:85" ph="..." />
+                <marker date="1548727049750" expanded="true" signature="275:426" ph="..." />
+                <marker date="1548727049750" expanded="true" signature="444:449" ph="..." />
               </folding>
             </state>
           </provider>
@@ -183,20 +121,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pwc_interface/templates/pages/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="-45">
               <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pwc_interface/templates/pages/release.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="58" column="103" selection-start-line="58" selection-start-column="103" selection-end-line="58" selection-end-column="103" />
+            <state relative-caret-position="587">
+              <caret line="56" column="103" selection-start-line="56" selection-start-column="103" selection-end-line="56" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -229,18 +167,17 @@
         <option value="$PROJECT_DIR$/pwc_interface/templates/test.html" />
         <option value="$PROJECT_DIR$/pwc_interface/settings.py" />
         <option value="$PROJECT_DIR$/pwc_interface/templates/pages/test.html" />
-        <option value="$PROJECT_DIR$/pwc_interface/views.py" />
         <option value="$PROJECT_DIR$/pwc_interface/urls.py" />
         <option value="$PROJECT_DIR$/pwc_interface/templates/pages/model_template.html" />
         <option value="$PROJECT_DIR$/pwc_interface/templates/pages/release.html" />
         <option value="$PROJECT_DIR$/pwc_interface/templates/pages/list.html" />
+        <option value="$PROJECT_DIR$/pwc_interface/views.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="808" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -319,7 +256,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="808" extended-state="1" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -327,7 +264,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32756132" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2812887" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
@@ -402,18 +339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pwc_interface/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1548664125910" expanded="true" signature="80:85" ph="..." />
-            <marker date="1548664125910" expanded="true" signature="263:268" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pwc_interface/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -434,17 +359,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pwc_interface/templates/pages/release.html">
+    <entry file="file://$PROJECT_DIR$/pwc_interface/templates/pages/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="58" column="103" selection-start-line="58" selection-start-column="103" selection-end-line="58" selection-end-column="103" />
+        <state relative-caret-position="-45">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pwc_interface/templates/pages/list.html">
+    <entry file="file://$PROJECT_DIR$/pwc_interface/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="247">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1548727049750" expanded="true" signature="80:85" ph="..." />
+            <marker date="1548727049750" expanded="true" signature="275:426" ph="..." />
+            <marker date="1548727049750" expanded="true" signature="444:449" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pwc_interface/templates/pages/release.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="56" column="103" selection-start-line="56" selection-start-column="103" selection-end-line="56" selection-end-column="103" />
         </state>
       </provider>
     </entry>
