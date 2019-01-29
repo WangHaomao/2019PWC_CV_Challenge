@@ -9,7 +9,7 @@ For time reason, this repository only has interface and notification tools.
 
 In there, we hope the website can help to release tasks more easily.
 
-![p01](/Users/haomao/Documents/Git/2019PWC_CV_Challenge/readme_source/p01.png)
+![p01](readme_source/p01.png)
 
 
 
