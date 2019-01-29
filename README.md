@@ -7,7 +7,7 @@ For time reason, this repository only has interface and notification tools.
 
 # Interface(Web pages)
 
-In there, we hope the website can help to release tasks more easily.
+In there, we hope the website can help to release tasks more easily(The website is still working).
 
 ![p01](readme_source/p01.png)
 
