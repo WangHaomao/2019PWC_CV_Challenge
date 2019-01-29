@@ -7,9 +7,11 @@ from email.mime.text import MIMEText
 
 
 def send_mail():
-    to_list = ['wanghaomao.cn@gmail.com', 'hwangdo@connect.ust.hk']
+    to_list = ['t1@gmail.com', 't2@connect.ust.hk']
     mail_host = "smtp.163.com"
-    mail_user = "whmabcok"
+
+    # your also can change to alicloud to use own email address
+    mail_user = "eamil"
     mail_pass = "2019pwc"
     mail_postfix = "163.com"
 
